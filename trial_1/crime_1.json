@@ -1,0 +1,682 @@
+{
+   "nodes" : [
+      {
+         "name" : "Cases Registered",
+         "id" : "total_cases"
+      },
+      {
+         "name" : "Andhra Pradesh",
+         "id" : "s_1"
+      },
+      {
+         "name" : "Cases resulting in conviction",
+         "id" : "conviction"
+      },
+      {
+         "id" : "acquittal",
+         "name" : "Cases resulting in acquittal"
+      },
+      {
+         "name" : "Arunachal Pradesh",
+         "id" : "s_4"
+      },
+      {
+         "name" : "Assam",
+         "id" : "s_5"
+      },
+      {
+         "name" : "Bihar",
+         "id" : "s_6"
+      },
+      {
+         "name" : "Chattisgarh",
+         "id" : "s_7"
+      },
+      {
+         "name" : "Goa",
+         "id" : "s_8"
+      },
+      {
+         "id" : "s_9",
+         "name" : "Gujrat"
+      },
+      {
+         "name" : "Haryana",
+         "id" : "s_10"
+      },
+      {
+         "id" : "s_11",
+         "name" : "Himachal Pradesh"
+      },
+      {
+         "name" : "Jammu & Kashmir",
+         "id" : "s_12"
+      },
+      {
+         "name" : "Jharkhand",
+         "id" : "s_13"
+      },
+      {
+         "id" : "s_14",
+         "name" : "Karnataka"
+      },
+      {
+         "name" : "Kerela",
+         "id" : "s_15"
+      },
+      {
+         "id" : "s_16",
+         "name" : "Madhya Pradesh"
+      },
+      {
+         "id" : "s_17",
+         "name" : "Maharashtra"
+      },
+      {
+         "id" : "s_18",
+         "name" : "Manipur"
+      },
+      {
+         "name" : "Meghalaya",
+         "id" : "s_19"
+      },
+      {
+         "id" : "s_20",
+         "name" : "Mizoram"
+      },
+      {
+         "id" : "s_21",
+         "name" : "Nagaland"
+      },
+      {
+         "id" : "s_22",
+         "name" : "Odisha"
+      },
+      {
+         "name" : "Punjab",
+         "id" : "s_23"
+      },
+      {
+         "id" : "s_24",
+         "name" : "Rajasthan"
+      },
+      {
+         "id" : "s_25",
+         "name" : "Sikkim"
+      },
+      {
+         "id" : "s_26",
+         "name" : "Tamin Nadu"
+      },
+      {
+         "id" : "s_27",
+         "name" : "Tripura"
+      },
+      {
+         "id" : "s_28",
+         "name" : "Uttar Pradesh"
+      },
+      {
+         "id" : "s_29",
+         "name" : "Uttarakhand"
+      },{
+         "id" : "s_30",
+         "name" : "West Bengal"
+      },
+      {
+         "id" : "s_31",
+         "name" : "Andaman & Nicobar Islands"
+      },
+      {
+         "id" : "s_32",
+         "name" : "Chandigarh"
+      },
+      {
+         "id" : "s_33",
+         "name" : "Dadra & Nagar Haveli"
+      },
+      {
+         "id" : "s_34",
+         "name" : "Daman & Diu"
+      },
+      {
+         "id" : "s_35",
+         "name" : "NCT of Delhi"
+      },
+      {
+         "id" : "s_36",
+         "name" : "Lakshadweep"
+      },
+      {
+         "id" : "s_37",
+         "name" : "Puducherry"
+      }
+   ],
+   "links" : [
+      {
+         "source" : 0,
+         "value" : 6930,
+         "target" : 1
+      },
+      {
+         "value" : 0.32322870366987,
+         "source" : 1,
+         "target" : 2
+      },
+      {
+         "value" : 0.177682517071359,
+         "source" : 1,
+         "target" : 3
+      },
+      {
+         "value" : 93,
+         "source" : 0,
+         "target" : 4
+      },
+      {
+         "source" : 4,
+         "value" : 0.00433076373512774,
+         "target" : 2
+      },
+      {
+         "target" : 3,
+         "value" : 0.00296956039863467,
+         "source" : 4
+      },
+      {
+         "target" : 5,
+         "value" : 2409,
+         "source" : 0
+      },
+      {
+         "target" : 2,
+         "value" : 0.307574096993239,
+         "source" : 5
+      },
+      {
+         "source" : 5,
+         "value" : 0.00676852971933996,
+         "target" : 3
+      },
+      {
+         "target" : 6,
+         "value" : 331,
+         "source" : 0
+      },
+      {
+         "value" : 0.000315972058711838,
+         "source" : 6,
+         "target" : 2
+      },
+      {
+         "value" : 0.000218969462265292,
+         "source" : 6,
+         "target" : 3
+      },
+      {
+         "source" : 0,
+         "value" : 3.82757532567656e-05,
+         "target" : 7
+      },
+      {
+         "value" : 2261,
+         "source" : 7,
+         "target" : 2
+      },
+      {
+         "source" : 7,
+         "value" : 0.0055125989240741,
+         "target" : 3
+      },
+      {
+         "target" : 8,
+         "source" : 0,
+         "value" : 162
+      },
+      {
+         "source" : 8,
+         "value" : 0.000200138892990337,
+         "target" : 2
+      },
+      {
+         "value" : 0.307574096993239,
+         "source" : 8,
+         "target" : 3
+      },
+      {
+         "source" : 0,
+         "value" : 0.307574096993239,
+         "target" : 9
+      },
+      {
+         "source" : 9,
+         "value" : 0.00148345269044703,
+         "target" : 2
+      },
+      {
+         "source" : 9,
+         "value" : 0.00135309891304186,
+         "target" : 3
+      },
+      {
+         "target" : 10,
+         "source" : 0,
+         "value" : 0.000105714137908639
+      },
+      {
+         "source" : 10,
+         "value" : 1.33452642581887e-05,
+         "target" : 2
+      },
+      {
+         "target" : 3,
+         "source" : 10,
+         "value" : 8.78074837009238e-06
+      },
+      {
+         "target" : 11,
+         "value" : 2.5136268682477e-06,
+         "source" : 0
+      },
+      {
+         "source" : 11,
+         "value" : 0.000240519729288764,
+         "target" : 2
+      },
+      {
+         "value" : 0.000226237279345084,
+         "source" : 11,
+         "target" : 3
+      },
+      {
+         "target" : 12,
+         "source" : 0,
+         "value" : 0.307574096993239
+      },
+      {
+         "target" : 2,
+         "source" : 12,
+         "value" : 0.307574096993239
+      },
+      {
+         "source" : 12,
+         "value" : 0.307574096993239,
+         "target" : 3
+      },
+      {
+         "target" : 13,
+         "value" : 0.007574096993239,
+         "source" : 0
+      },
+      {
+         "target" : 2,
+         "source" : 13,
+         "value" : 0.107574096993239
+      },
+      {
+         "source" : 13,
+         "value" : 0.307574096993239,
+         "target" : 3
+      },
+      {
+         "target" : 14,
+         "source" : 0,
+         "value" : 0.307574096993239
+      },
+      {
+         "target" : 2,
+         "value" : 0.0410641202645833,
+         "source" : 14
+      },
+      {
+         "target" : 3,
+         "source" : 14,
+         "value" : 0.0105339381639722
+      },
+      {
+         "value" : 0.0105,
+         "source" : 0,
+         "target" : 15
+      },
+      {
+         "target" : 2,
+         "source" : 15,
+         "value" : 0.0087294420777
+      },
+      {
+         "value" : 0.00474399974233333,
+         "source" : 15,
+         "target" : 3
+      },
+      {
+         "target" : 16,
+         "value" : 0.00388226450884445,
+         "source" : 0
+      },
+      {
+         "target" : 2,
+         "source" : 16,
+         "value" : 0.00267447577173333
+      },
+      {
+         "value" : 0.0365458590642445,
+         "source" : 16,
+         "target" : 3
+      },
+      {
+         "target" : 17,
+         "value" : 0.0114913076376389,
+         "source" : 0
+      },
+      {
+         "target" : 2,
+         "source" : 17,
+         "value" : 0.0081134807347
+      },
+      {
+         "source" : 17,
+         "value" : 0.00765230236575,
+         "target" : 3
+      },
+      {
+         "target" : 18,
+         "value" : 0.004,
+         "source" : 0
+      },
+      {
+         "source" : 18,
+         "value" : 0.00296668823626667,
+         "target" : 2
+      },
+      {
+         "target" : 3,
+         "value" : 0.00232208008988889,
+         "source" : 18
+      },
+      {
+         "value" : 0.0345435327843611,
+         "source" : 0,
+         "target" : 19
+      },
+      {
+         "source" : 19,
+         "value" : 0.0121419536385,
+         "target" : 2
+      },
+      {
+         "source" : 19,
+         "value" : 0.00766772850678333,
+         "target" : 3
+      },
+      {
+         "target" : 20,
+         "source" : 0,
+         "value" : 0.0056245892061
+      },
+      {
+         "value" : 0.00361616847688889,
+         "source" : 20,
+         "target" : 2
+      },
+      {
+         "source" : 20,
+         "value" : 0.00277374682533333,
+         "target" : 3
+      },
+      {
+         "source" : 0,
+         "value" : 0.00271934613075556,
+         "target" : 21
+      },
+      {
+         "target" : 2,
+         "source" : 21,
+         "value" : 0.0340206659360667
+      },
+      {
+         "source" : 21,
+         "value" : 0.0105,
+         "target" : 3
+      },
+      {
+         "target" : 22,
+         "source" : 0,
+         "value" : 0.0089274160792
+      },
+      {
+         "value" : 0.0054148022845,
+         "source" : 22,
+         "target" : 2
+      },
+      {
+         "source" : 22,
+         "value" : 0.00333938149786667,
+         "target" : 3
+      },
+      {
+         "value" : 0.00314663377488889,
+         "source" : 0,
+         "target" : 23
+      },
+      {
+         "target" : 2,
+         "source" : 23,
+         "value" : 0.00269243229961111
+      },
+      {
+         "source" : 23,
+         "value" : 0.0320571523941667,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 24
+      },
+      {
+         "target" : 2,
+         "source" : 24,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 24,
+         "target" : 3
+      },
+      {
+         "target" : 25,
+         "value" : 0.00354321156324444,
+         "source" : 0
+      },
+      {
+         "target" : 2,
+         "value" : 0.00240710667391111,
+         "source" : 25
+      },
+      {
+         "target" : 3,
+         "source" : 25,
+         "value" : 0
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 26
+      },
+      {
+         "target" : 2,
+         "source" : 26,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 26,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 27
+      },
+      {
+         "target" : 2,
+         "source" : 27,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 27,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 28
+      },
+      {
+         "target" : 2,
+         "source" : 28,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 28,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 29
+      },
+      {
+         "target" : 2,
+         "source" : 29,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 29,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 30
+      },
+      {
+         "target" : 2,
+         "source" : 30,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 30,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 31
+      },
+      {
+         "target" : 2,
+         "source" : 31,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 31,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 32
+      },
+      {
+         "target" : 2,
+         "source" : 32,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 32,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 33
+      },
+      {
+         "target" : 2,
+         "source" : 33,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 33,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 34
+      },
+      {
+         "target" : 2,
+         "source" : 34,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 34,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 35
+      },
+      {
+         "target" : 2,
+         "source" : 35,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 35,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 36
+      },
+      {
+         "target" : 2,
+         "source" : 36,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 36,
+         "target" : 3
+      },
+      {
+         "value" : 0.0132312483463611,
+         "source" : 0,
+         "target" : 37
+      },
+      {
+         "target" : 2,
+         "source" : 37,
+         "value" : 0.0077695200707
+      },
+      {
+         "value" : 0.00510606573995,
+         "source" : 37,
+         "target" : 3
+      }
+   ]
+}

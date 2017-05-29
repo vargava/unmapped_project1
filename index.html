@@ -36,8 +36,8 @@
 var units = "Cases";
 
 var margin = {top: 10, right: 10, bottom: 10, left: 10},
-    width = 700 - margin.left - margin.right,
-    height = 300 - margin.top - margin.bottom;
+    width = 3000 - margin.left - margin.right,
+    height = 3000 - margin.top - margin.bottom;
 
 var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },
@@ -106,7 +106,7 @@ d3.csv("unmapped_project1/data.csv", function(error, data) {
 
 // add the link titles
   link.append("title")
-        .text(function(d) {
+        .(function(d) {
     		return d.source.name + " → " + 
                 d.target.name + "\n" + format(d.value); });
 
